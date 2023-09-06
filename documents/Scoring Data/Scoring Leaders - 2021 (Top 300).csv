@@ -1,0 +1,601 @@
+PLAYER,FPTS,AVG
+"Cooper Kupp
+LARWR",439.5,25.9
+"Josh Allen
+BufQB",410.51,24.1
+"Tom Brady
+TBQB",394.58,23.2
+"Justin Herbert
+LACQB",391.62,23
+"Jonathan Taylor
+IndRB",371.1,21.8
+"Patrick Mahomes
+KCQB",369.27,21.7
+"Aaron Rodgers
+GBQB",359.15,22.4
+"Davante Adams
+GBWR",344.3,21.5
+"Matthew Stafford
+LARQB",342.88,20.2
+"Austin Ekeler
+LACRB",342.8,21.4
+"Deebo Samuel
+SFWR",338.72,21.2
+"Dak Prescott
+DalQB",332.07,20.8
+"Justin Jefferson
+MinWR",330.05,19.4
+"Joe BurrowQ
+CinQB",319.13,19.9
+"Kirk Cousins
+MinQB",307.13,19.2
+"Ja'Marr Chase
+CinWR",303.6,17.9
+"Najee Harris
+PitRB",300.7,17.7
+"Mark Andrews
+BalTE",300.1,17.7
+"Jalen HurtsQ
+PhiQB",296.72,19.8
+"Tyreek Hill
+KCWR",295.5,17.4
+"Kyler Murray
+AriQB",287.61,20.5
+"Joe Mixon
+CinRB",286.9,17.9
+"Stefon Diggs
+BufWR",284.5,16.7
+"Diontae Johnson
+PitWR",274.4,17.2
+"Carson Wentz
+IndQB",266.39,15.7
+"Travis Kelce
+KCTE",262.8,16.4
+"Mike Evans
+TBWR",262.5,16.4
+"Keenan Allen
+LACWR",256.8,16.1
+"James Conner
+AriRB",255.7,17
+"Hunter Renfrow
+LVWR",255.1,15
+"Leonard Fournette
+TBRB",254.6,18.2
+"Ryan Tannehill
+TenQB",253.02,14.9
+"Ezekiel ElliottQ
+DalRB",252.02,14.8
+"Russell Wilson
+SeaQB",250.69,17.9
+"Mike Williams
+LACWR",246.6,15.4
+"Jaylen Waddle
+MiaWR",244.8,15.3
+"DK MetcalfQ
+SeaWR",243.3,14.3
+"Chris GodwinQ
+TBWR",242.4,17.3
+"Tyler Lockett
+SeaWR",241.4,15.1
+"Michael Pittman Jr.
+IndWR",237.6,14
+"DJ Moore
+CarWR",237.5,14
+"Alvin Kamara
+NORB",234.7,18.1
+"Derek Carr
+LVQB",232.92,13.7
+"CeeDee Lamb
+DalWR",232.8,14.6
+"Cordarrelle Patterson
+AtlRB",232.6,14.5
+"Brandin CooksQ
+HouWR",231.8,14.5
+"Aaron Jones
+GBRB",228,15.2
+"Amon-Ra St. Brown
+DetWR",227.3,14.2
+"Lamar Jackson
+BalQB",227.16,18.9
+"Antonio Gibson
+WshRB",227.1,14.2
+"Josh Jacobs
+LVRB",226,15.1
+"Marquise Brown
+BalWR",224.3,14
+"Darnell Mooney
+ChiWR",219.7,12.9
+"Tee Higgins
+CinWR",219.1,15.7
+"Nick Chubb
+CleRB",214.3,15.3
+"Mac Jones
+NEQB",213.93,12.6
+"Terry McLaurin
+WshWR",213.5,12.6
+"Jimmy GaroppoloQ
+SFQB",212.4,14.2
+"Damien Harris
+NERB",210.1,14
+"Dalton Schultz
+DalTE",208.8,12.3
+"Ben Roethlisberger
+PitQB",208.7,13
+"Taylor Heinicke
+WshQB",208.67,13
+"D'Andre Swift
+DetRB",207.9,16
+"Christian Kirk
+AriWR",207.29,12.2
+"Dalvin Cook
+MinRB",205.3,15.8
+"Matt Ryan
+AtlQB",204.24,12
+"Javonte Williams
+DenRB",203.9,12
+"Amari Cooper
+DalWR",201.5,13.4
+"Teddy BridgewaterQ
+DenQB",201.16,14.4
+"Adam ThielenQ
+MinWR",198.8,15.3
+"George Kittle
+SFTE",197,14.1
+"Darrel Williams
+KCRB",196,11.5
+"Melvin Gordon III
+DenRB",195.1,12.2
+"Derrick Henry
+TenRB",194.25,24.3
+"David Montgomery
+ChiRB",194,14.9
+"Devin Singletary
+BufRB",192.8,11.3
+"Jared Goff
+DetQB",189.05,13.5
+"Jakobi Meyers
+NEWR",185.85,11.6
+"DeVonta Smith
+PhiWR",185.6,10.9
+"AJ DillonQ
+GBRB",184.6,10.9
+"Tyler Boyd
+CinWR",182.38,11.4
+"Kendrick Bourne
+NEWR",182.25,10.7
+"A.J. Brown
+TenWR",180.9,13.9
+"Zach Ertz
+AriTE",180.7,10.6
+"Marvin Jones Jr.
+JaxWR",180.2,10.6
+"Kyle Pitts
+AtlTE",176.6,10.4
+"Myles Gaskin
+MiaRB",172.6,10.2
+"James RobinsonQ
+JaxRB",171.9,12.3
+"Rob Gronkowski
+TBTE",171.2,14.3
+"Brandon Aiyuk
+SFWR",169.3,10
+"Baker MayfieldQ
+CleQB",168.8,12.1
+"Tua Tagovailoa
+MiaQB",168.39,13
+"Van Jefferson
+LARWR",168.2,9.9
+"Chase Claypool
+PitWR",166.6,11.1
+"Trevor Lawrence
+JaxQB",165.63,9.7
+"Elijah Mitchell
+SFRB",165,15
+"Mike Gesicki
+MiaTE",165,9.7
+"Hunter Henry
+NETE",164.3,10.3
+"Dawson Knox
+BufTE",164.1,10.9
+"Dallas Goedert
+PhiTE",164,10.9
+"Darrell Henderson Jr.
+LARRB",163.4,13.6
+"Russell Gage
+AtlWR",163,12.5
+"Tony Pollard
+DalRB",160.6,10.7
+"Noah Fant
+DenTE",159,9.9
+"K.J. Osborn
+MinWR",158.5,9.3
+"Cole Beasley
+BufWR",158.3,9.9
+"A.J. Green
+AriWR",156.8,9.8
+"Tim Patrick
+DenWR",156.4,9.8
+"Michael Carter
+NYJRB",154.4,11
+"Daniel JonesQ
+NYGQB",152.24,13.8
+"Marquez Callaway
+NOWR",151.8,8.9
+"Pat Freiermuth
+PitTE",151.7,9.5
+"Courtland Sutton
+DenWR",150.08,8.8
+"Davis Mills
+HouQB",148.32,11.4
+"Saquon Barkley
+NYGRB",147.6,11.4
+"DeAndre HopkinsQ
+AriWR",147.2,14.7
+"Devonta Freeman
+BalRB",146.6,9.2
+"Sony Michel
+LARRB",146.3,8.6
+"Tyler HigbeeQ
+LARTE",146,9.7
+"T.J. HockensonQ
+DetTE",145.3,12.1
+"Devontae Booker
+NYGRB",144.1,9
+"Cedrick Wilson
+DalWR",143.94,9.6
+"Chase Edmonds
+AriRB",143.3,11.9
+"Allen Lazard
+GBWR",142.5,10.2
+"Mecole Hardman
+KCWR",139.9,8.2
+"Robby Anderson
+CarWR",138.5,8.1
+"Elijah MooreO
+NYJWR",138.2,12.6
+"Chuba Hubbard
+CarRB",137.6,8.6
+"Tyler Conklin
+MinTE",137.3,8.1
+"Mike DavisQ
+AtlRB",137.2,8.1
+"Robert WoodsQ
+LARWR",137.2,15.2
+"Darren Waller
+LVTE",133.5,12.1
+"Jared Cook
+LACTE",132.4,8.3
+"Kalif Raymond
+DetWR",132.4,8.3
+"Sam Darnold
+CarQB",132.01,11
+"Jarvis Landry
+CleWR",132,11
+"Emmanuel Sanders
+BufWR",131.7,9.4
+"Zach Wilson
+NYJQB",131.52,10.1
+"Jameis WinstonQ
+NOQB",129.7,18.5
+"Odell Beckham Jr.D
+LARWR",129.1,9.2
+"C.J. UzomahQ
+CinTE",128.3,8
+"J.D. McKissicQ
+WshRB",127.9,11.6
+"Laviska Shenault Jr.
+JaxWR",127,7.9
+"Christian McCaffreyQ
+CarRB",126.5,18.1
+"Gabriel Davis
+BufWR",125.9,8.4
+"Alexander Mattison
+MinRB",125.9,7.9
+"Byron Pringle
+KCWR",125.8,7.9
+"Brandon Bolden
+NERB",123.1,7.7
+"Kenneth Gainwell
+PhiRB",122.4,7.6
+"Rashaad Penny
+SeaRB",121.7,12.2
+"Cole Kmet
+ChiTE",121.2,7.1
+"Antonio BrownQ
+FAWR",121.1,17.3
+"Braxton BerriosQ
+NYJWR",121.1,7.6
+"Jamaal Williams
+DetRB",118.8,9.1
+"Gerald Everett
+SeaTE",117.8,7.9
+"Clyde Edwards-Helaire
+KCRB",117.6,11.8
+"Miles Sanders
+PhiRB",117.2,9.8
+"Ty Johnson
+NYJRB",116,7.3
+"Quez Watkins
+PhiWR",116,6.8
+"Rhamondre Stevenson
+NERB",113.9,9.5
+"Taysom HillQ
+NOQB",112.94,9.4
+"Deonte Harris
+NOWR",112.1,8.6
+"Nyheim Hines
+IndRB",111.6,6.6
+"Kareem HuntQ
+CleRB",110,13.8
+"Jamison CrowderQ
+NYJWR",109.7,9.1
+"Donovan Peoples-Jones
+CleWR",108.7,8.4
+"Mark Ingram IIQ
+NORB",108.6,7.8
+"Bryan Edwards
+LVWR",108.1,6.4
+"David Njoku
+CleTE",107.6,7.2
+"Nick Westbrook-Ikhine
+TenWR",107.6,7.2
+"Rondale Moore
+AriWR",107.1,7.6
+"Zay Jones
+LVWR",105.9,7.1
+"Justin Fields
+ChiQB",105.1,8.8
+"Zack Moss
+BufRB",104.2,8
+"Corey DavisQ
+NYJWR",104.2,11.6
+"Latavius Murray
+BalRB",103.6,7.4
+"DeVante Parker
+MiaWR",103.5,10.4
+"Rashod Bateman
+BalWR",103.5,8.6
+"Nelson Agholor
+NEWR",103.4,7.4
+"Rex Burkhead
+HouRB",103.3,6.9
+"D'Ernest Johnson
+CleRB",103.1,7.9
+"Evan Engram
+NYGTE",102.5,6.8
+"Kenyan DrakeQ
+LVRB",101.5,8.5
+"Boston Scott
+PhiRB",98.6,8.2
+"Jalen Guyton
+LACWR",96.2,6
+"Trevor Siemian
+NOQB",95.62,15.9
+"Zach Pascal
+IndWR",94.5,5.9
+"Randall Cobb
+GBWR",93.6,8.5
+"Joshua Palmer
+LACWR",92.9,6.2
+"D'Onta Foreman
+TenRB",92.9,10.3
+"Austin Hooper
+CleTE",92.5,5.8
+"Michael GallupQ
+DalWR",91.5,10.2
+"Olamide Zaccheaus
+AtlWR",89.8,6
+"Ameer Abdullah
+CarRB",89.5,5.3
+"Kenny Golladay
+NYGWR",89.1,6.4
+"Allen Robinson II
+ChiWR",87,7.3
+"Marquez Valdes-ScantlingQ
+GBWR",87,7.9
+"Tre'Quan Smith
+NOWR",86.7,7.9
+"Justin Jackson
+LACRB",86.2,6.2
+"Freddie Swain
+SeaWR",85.5,5
+"Henry Ruggs III
+FAWR",84.5,12.1
+"Foster Moreau
+LVTE",84.3,6
+"Jerry Jeudy
+DenWR",84,8.4
+"Nico Collins
+HouWR",83.6,6
+"DeAndre Carter
+WshWR",83.5,4.9
+"Samaje Perine
+CinRB",83.2,5.2
+"Laquon Treadwell
+JaxWR",82.4,6.9
+"Kadarius ToneyQ
+NYGWR",82.17,9.1
+"David Johnson
+HouRB",81.3,6.3
+"Jauan Jennings
+SFWR",81.2,6.2
+"Josh Reynolds
+DetWR",80.6,8.1
+"Julio Jones
+TenWR",80.4,8
+"Cam Newton
+CarQB",79.52,9.9
+"Adam Humphries
+WshWR",79.3,4.7
+"Ronald Jones IIQ
+TBRB",79.2,5.3
+"Jack Doyle
+IndTE",79.2,4.7
+"Keelan Cole
+NYJWR",78.9,5.6
+"Mo Alie-Cox
+IndTE",78.6,4.6
+"Cameron Brate
+TBTE",78.5,4.9
+"Anthony Firkser
+TenTE",78.1,5.2
+"Khalil Herbert
+ChiRB",77.9,4.9
+"Sterling ShepardQ
+NYGWR",77.7,11.1
+"Devin Duvernay
+BalWR",76.2,4.8
+"Jalen Reagor
+PhiWR",76.1,4.5
+"Andy Dalton
+ChiQB",76.05,9.5
+"Albert Okwuegbunam
+DenTE",76,5.4
+"Dan ArnoldQ
+JaxTE",75.8,7.6
+"DeSean Jackson
+LVWR",75.8,5.4
+"Jamal AgnewQ
+JaxWR",75,7.5
+"T.Y. Hilton
+IndWR",74.1,7.4
+"Tyrod Taylor
+HouQB",74.08,12.3
+"Kyle Juszczyk
+SFRB",73.8,4.6
+"Jeremy McNichols
+TenRB",73.6,5.7
+"Tyler Huntley
+BalQB",72.83,10.4
+"Tyler JohnsonQ
+TBWR",72,4.5
+"Dontrell Hilliard
+TenRB",71.7,10.2
+"Calvin RidleyO
+AtlWR",71.1,14.2
+"Sammy Watkins
+BalWR",70.4,5.4
+"Geoff Swaim
+TenTE",70,4.4
+"Durham Smythe
+MiaTE",70,4.7
+"Demarcus Robinson
+KCWR",69.4,5
+"Ricky Seals-JonesQ
+WshTE",69.1,6.3
+"Alex CollinsQ
+SeaRB",68.8,6.3
+"Darius Slayton
+NYGWR",68.6,5.3
+"Danny Amendola
+HouWR",67.8,8.5
+"Trey Lance
+SFQB",66.89,11.1
+"Jonnu Smith
+NETE",66.4,4.4
+"James Washington
+PitWR",65.8,4.4
+"Damiere Byrd
+ChiWR",64.9,5.9
+"Chris ConleyQ
+HouWR",64.6,4.6
+"Ryan GriffinO
+NYJTE",64.1,4.6
+"Adam Trautman
+NOTE",63.3,5.3
+"Ray-Ray McCloud
+PitWR",63.2,4
+"Jordan Howard
+PhiRB",62.5,8.9
+"Jacoby Brissett
+MiaQB",62.49,5.7
+"Harrison Bryant
+CleTE",62.3,4.8
+"Hayden Hurst
+AtlTE",62.1,5.2
+"Chester Rogers
+TenWR",62,3.9
+"Travis Homer
+SeaRB",61.8,4.4
+"Josiah Deguara
+GBTE",61.5,5.1
+"Damien Williams
+ChiRB",60.7,5.1
+"Mack Hollins
+MiaWR",60.3,4
+"Kyle Rudolph
+NYGTE",59.7,4
+"Duke Johnson
+MiaRB",59.1,11.8
+"DeeJay Dallas
+SeaRB",59.1,3.5
+"Donald Parham Jr.Q
+LACTE",59,4.9
+"Giovani Bernard
+TBRB",58.1,5.8
+"Antoine Wesley
+AriWR",57.8,6.4
+"Rashard HigginsQ
+CleWR",57.5,4.8
+"Marquise Goodwin
+ChiWR",57.2,4.1
+"Geno Smith
+SeaQB",56.26,14.1
+"Derrick Gore
+KCRB",56.1,6.2
+"Brevin Jordan
+HouTE",55.8,6.2
+"Chris Moore
+HouWR",55.7,5.6
+"Jaret Patterson
+WshRB",54.9,3.9
+"Logan ThomasQ
+WshTE",53.6,8.9
+"Tommy Tremble
+CarTE",53.1,3.5
+"Juwan Johnson
+NOTE",52.9,4.4
+"Tevin Coleman
+NYJRB",51.5,4.7
+"Isaiah McKenzie
+BufWR",51.5,3.4
+"Tavon Austin
+JaxWR",51.4,4.7
+"Jimmy Graham
+ChiTE",50.7,4.6
+"Jeff Wilson Jr.Q
+SFRB",50.5,6.3
+"Robert TonyanQ
+GBTE",50.4,6.3
+"James O'ShaughnessyQ
+JaxTE",50.4,7.2
+"Dare Ogunbowale
+JaxRB",50.1,3.9
+"John Bates
+WshTE",49.9,4.5
+"Lil'Jordan Humphrey
+NOWR",49.9,5.5
+"Chris Evans
+CinRB",49.8,4.5
+"Quintez CephusQ
+DetWR",49.4,9.9
+"Will DisslyQ
+SeaTE",49.1,3.8
+"Brandon Zylstra
+CarWR",49,3.8
+"Cam Sims
+WshWR",48.8,4.1
+"JaMycal Hasty
+SFRB",48.5,4.4
+"MyCole PruittQ
+TenTE",48.5,4
+"Chris CarsonQ
+SeaRB",48.1,12
+"Tajae Sharpe
+AtlWR",48,3.4
+"Albert Wilson
+MiaWR",48,4.4
+"Peyton Barber
+LVRB",47.9,5.3
+"Demetric Felton
+CleRB",46.5,2.9

@@ -1,0 +1,193 @@
+,Auction Price,Name,Position,Team,Bye Week
+0,$60,Alvin Kamara,RB,NO,6
+1,$60,Christian McCaffrey,RB,CAR,13
+2,$53,Dalvin Cook,RB,MIN,7
+3,$52,Ezekiel Elliott,RB,DAL,7
+4,$50,Saquon Barkley,RB,NYG,10
+5,$49,Tyreek Hill,WR,KC,12
+6,$47,Jonathan Taylor,RB,IND,14
+7,$47,Patrick Mahomes II,QB,KC,12
+8,$46,Davante Adams,WR,GB,13
+9,$42,Austin Ekeler,RB,LAC,7
+10,$42,Josh Allen,QB,BUF,7
+11,$42,Najee Harris,RB,PIT,7
+12,$41,Calvin Ridley,WR,ATL,6
+13,$39,Aaron Rodgers,QB,GB,13
+14,$39,DeAndre Hopkins,WR,ARI,12
+15,$38,Lamar Jackson,QB,BAL,8
+16,$38,Russell Wilson,QB,SEA,9
+17,$38,Travis Kelce,TE,KC,12
+18,$37,Aaron Jones,RB,GB,13
+19,$35,Dak Prescott,QB,DAL,7
+20,$35,Nick Chubb,RB,CLE,13
+21,$34,Terry McLaurin,WR,WAS,9
+22,$33,Kyler Murray,QB,ARI,12
+23,$32,Clyde Edwards-Helaire,RB,KC,12
+24,$32,Derrick Henry,RB,TEN,13
+25,$31,Justin Herbert,QB,LAC,7
+26,$30,A.J. Brown,WR,TEN,13
+27,$30,CeeDee Lamb,WR,DAL,7
+28,$29,Darren Waller,TE,LV,8
+29,$29,Keenan Allen,WR,LAC,7
+30,$28,Matthew Stafford,QB,LAR,11
+31,$26,Allen Robinson II,WR,CHI,10
+32,$26,Joe Mixon,RB,CIN,10
+33,$25,Jalen Hurts,QB,PHI,14
+34,$25,Robert Woods,WR,LAR,11
+35,$24,James Robinson,RB,JAC,7
+36,$23,Amari Cooper,WR,DAL,7
+37,$23,Diontae Johnson,WR,PIT,7
+38,$23,Ryan Tannehill,QB,TEN,13
+39,$22,Tyler Lockett,WR,SEA,9
+40,$21,Cooper Kupp,WR,LAR,11
+41,$21,Josh Jacobs,RB,LV,8
+42,$21,Miles Sanders,RB,PHI,14
+43,$21,Washington Football Team,DST,WAS,9
+44,$20,Brandon Aiyuk,WR,SF,6
+45,$20,Chris Carson,RB,SEA,9
+46,$20,George Kittle,TE,SF,6
+47,$20,Joe Burrow,QB,CIN,10
+48,$20,Mike Evans,WR,TB,9
+49,$19,Damien Harris,RB,NE,14
+50,$19,Mike Davis,RB,ATL,6
+51,$19,Pittsburgh Steelers,DST,PIT,7
+52,$18,Chris Godwin,WR,TB,9
+53,$18,D'Andre Swift,RB,DET,9
+54,$18,Kyle Pitts,TE,ATL,6
+55,$18,Stefon Diggs,WR,BUF,7
+56,$17,Chase Edmonds,RB,ARI,12
+57,$17,Gus Edwards,RB,BAL,8
+58,$17,Ryan Fitzpatrick,QB,WAS,9
+59,$17,Tom Brady,QB,TB,9
+60,$16,Adam Thielen,WR,MIN,7
+61,$16,D.J. Moore,WR,CAR,13
+62,$16,D.K. Metcalf,WR,SEA,9
+63,$16,Kareem Hunt,RB,CLE,13
+64,$15,Chase Claypool,WR,PIT,7
+65,$15,JuJu Smith-Schuster,WR,PIT,7
+66,$15,Trevor Lawrence,QB,JAC,7
+67,$14,Julio Jones,WR,TEN,13
+68,$14,Trey Lance,QB,SF,6
+69,$13,David Montgomery,RB,CHI,10
+70,$13,Jerry Jeudy,WR,DEN,11
+71,$13,Tua Tagovailoa,QB,MIA,14
+72,$12,Antonio Gibson,RB,WAS,9
+73,$12,Darrell Henderson,RB,LAR,11
+74,$12,Mark Andrews,TE,BAL,8
+75,$12,Matt Ryan,QB,ATL,6
+76,$10,Justin Fields,QB,CHI,10
+77,$10,Raheem Mostert,RB,SF,6
+78,$9,Javonte Williams,RB,DEN,11
+79,$8,Baker Mayfield,QB,CLE,13
+80,$8,Derek Carr,QB,LV,8
+81,$8,Myles Gaskin,RB,MIA,14
+82,$8,Ronald Jones II,RB,TB,9
+83,$8,Tee Higgins,WR,CIN,10
+84,$7,Ja'Marr Chase,WR,CIN,10
+85,$7,Jameis Winston,QB,NO,6
+86,$7,Kenny Golladay,WR,NYG,10
+87,$7,Odell Beckham Jr.,WR,CLE,13
+88,$7,T.J. Hockenson,TE,DET,9
+89,$7,Trey Sermon,RB,SF,6
+90,$7,Ty'Son Williams,RB,BAL,8
+91,$7,Tyler Boyd,WR,CIN,10
+92,$7,Zach Wilson,QB,NYJ,6
+93,$6,Ben Roethlisberger,QB,PIT,7
+94,$6,DeVonta Smith,WR,PHI,14
+95,$6,Justin Jefferson,WR,MIN,7
+96,$6,Laviska Shenault Jr.,WR,JAC,7
+97,$6,Michael Thomas,WR,NO,6
+98,$6,Noah Fant,TE,DEN,11
+99,$5,Logan Thomas,TE,WAS,9
+100,$5,Mac Jones,QB,NE,14
+101,$5,Marquez Callaway,WR,NO,6
+102,$5,Marquez Valdes-Scantling,WR,GB,13
+103,$5,Robert Tonyan,TE,GB,13
+104,$4,AJ Dillon,RB,GB,13
+105,$4,Brandin Cooks,WR,HOU,10
+106,$4,Corey Davis,WR,NYJ,6
+107,$4,Deebo Samuel,WR,SF,6
+108,$4,Michael Pittman Jr.,WR,IND,14
+109,$4,Robby Anderson,WR,CAR,13
+110,$4,Sony Michel,RB,NE,14
+111,$3,Antonio Brown,WR,TB,9
+112,$3,Bryan Edwards,WR,LV,8
+113,$3,Carson Wentz,QB,IND,14
+114,$3,Courtland Sutton,WR,DEN,11
+115,$3,James Conner,RB,ARI,12
+116,$3,Jaylen Waddle,WR,MIA,14
+117,$3,Leonard Fournette,RB,TB,9
+118,$3,Michael Carter,RB,NYJ,6
+119,$3,Nyheim Hines,RB,IND,14
+120,$3,Sam Darnold,QB,CAR,13
+121,$3,Will Fuller V,WR,MIA,14
+122,$2,D.J. Chark Jr.,WR,JAC,7
+123,$2,Dallas Goedert,TE,PHI,14
+124,$2,Daniel Jones,QB,NYG,10
+125,$2,Devin Singletary,RB,BUF,7
+126,$2,Elijah Moore,WR,NYJ,6
+127,$2,Jarvis Landry,WR,CLE,13
+128,$2,Kirk Cousins,QB,MIN,7
+129,$2,Marquise Brown,WR,BAL,8
+130,$2,Melvin Gordon III,RB,DEN,11
+131,$2,Michael Gallup,WR,DAL,7
+132,$2,Teddy Bridgewater,QB,DEN,11
+133,$2,Ty Johnson,RB,NYJ,6
+134,$2,Tyler Higbee,TE,LAR,11
+135,$2,Tyrell Williams,WR,DET,9
+136,$2,Tyrod Taylor,QB,HOU,10
+137,$2,Zack Moss,RB,BUF,7
+138,$1,Alexander Mattison,RB,MIN,7
+139,$1,Andy Dalton,QB,CHI,10
+140,$1,Baltimore Ravens,DST,BAL,8
+141,$1,Buffalo Bills,DST,BUF,7
+142,$1,Byron Pringle,WR,KC,12
+143,$1,Chris Evans,RB,CIN,10
+144,$1,Chuba Hubbard,RB,CAR,13
+145,$1,Cole Beasley,WR,BUF,7
+146,$1,Curtis Samuel,WR,WAS,9
+147,$1,Damien Williams,RB,CHI,10
+148,$1,Darnell Mooney,WR,CHI,10
+149,$1,David Johnson,RB,HOU,10
+150,$1,Deshaun Watson,QB,HOU,10
+151,$1,DeVante Parker,WR,MIA,14
+152,$1,Donald Parham Jr.,TE,LAC,7
+153,$1,Eric Ebron,TE,PIT,7
+154,$1,Henry Ruggs III,WR,LV,8
+155,$1,Indianapolis Colts,DST,IND,14
+156,$1,J.D. McKissic,RB,WAS,9
+157,$1,Jakobi Meyers,WR,NE,14
+158,$1,Jalen Reagor,WR,PHI,14
+159,$1,Jamaal Williams,RB,DET,9
+160,$1,James White,RB,NE,14
+161,$1,Jared Goff,QB,DET,9
+162,$1,Jermar Jefferson,RB,DET,9
+163,$1,Jimmy Garoppolo,QB,SF,6
+164,$1,Jonnu Smith,TE,NE,14
+165,$1,Kenneth Gainwell,RB,PHI,14
+166,$1,Kenyan Drake,RB,LV,8
+167,$1,Larry Rountree III,RB,LAC,7
+168,$1,Los Angeles Rams,DST,LAR,11
+169,$1,Mark Ingram II,RB,HOU,10
+170,$1,Marvin Jones Jr.,WR,JAC,7
+171,$1,Mecole Hardman,WR,KC,12
+172,$1,Miami Dolphins,DST,MIA,14
+173,$1,Mike Gesicki,TE,MIA,14
+174,$1,Mike Williams,WR,LAC,7
+175,$1,Nelson Agholor,WR,NE,14
+176,$1,New England Patriots,DST,NE,14
+177,$1,New Orleans Saints,DST,NO,6
+178,$1,New York Jets,DST,NYJ,6
+179,$1,Parris Campbell,WR,IND,14
+180,$1,Phillip Lindsay,RB,HOU,10
+181,$1,Rhamondre Stevenson,RB,NE,14
+182,$1,Rob Gronkowski,TE,TB,9
+183,$1,Rondale Moore,WR,ARI,12
+184,$1,Russell Gage,WR,ATL,6
+185,$1,San Francisco 49ers,DST,SF,6
+186,$1,Sterling Shepard,WR,NYG,10
+187,$1,T.Y. Hilton,WR,IND,14
+188,$1,Tampa Bay Buccaneers,DST,TB,9
+189,$1,Tony Jones Jr.,RB,NO,6
+190,$1,Tony Pollard,RB,DAL,7
+191,$1,Travis Etienne,RB,JAC,7
